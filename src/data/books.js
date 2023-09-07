@@ -33,6 +33,6 @@ export const books= [{
     title:'Refactoring: Improving the Design of Existing Code',
     img:"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925632i/44936.jpg",
     author:"Martin Fowler"
-},
+}
 
 ]
